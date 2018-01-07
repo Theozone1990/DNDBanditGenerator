@@ -1,0 +1,11 @@
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\bin\Debug\DNDEnemyGenerator.exe
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\bin\Debug\DNDEnemyGenerator.pdb
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\bin\Debug\mscorlib.dll
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\bin\Debug\normidna.nlp
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\bin\Debug\normnfc.nlp
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\bin\Debug\normnfd.nlp
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\bin\Debug\normnfkc.nlp
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\bin\Debug\normnfkd.nlp
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\obj\x86\Debug\DNDEnemyGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\obj\x86\Debug\DNDEnemyGenerator.exe
+C:\Users\Theo\Documents\Projects\DNDEnemyGenerator\DNDEnemyGenerator\obj\x86\Debug\DNDEnemyGenerator.pdb
